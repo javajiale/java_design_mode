@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/AbstractHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Behave.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/BehaveFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Boss.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Command.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ExpressBehave.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/GoBehave.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/People.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/WorkBehave.java" charset="UTF-8" />
+  </component>
+</project>
